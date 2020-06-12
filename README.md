@@ -30,9 +30,11 @@ This project contains two notebooks, both of which we suggest you open with Goog
 
 If you reference GLS-MP in your academic projects in the context of its deployment at the SDC, please cite **Argall, Small, et al. (2006)**. To cite the library in general, you could use this BibTeX entry:
 
+```
 @misc{gls-mp,
 title = {{GLS-MP}: automated magnetopause crossing detection,
 author = {Small, C.R., Argall, M.R., Petrik, M.},
 note = {https://github.com/colinrsmall/GLS-MP},
 year = {2020},
 }
+```
