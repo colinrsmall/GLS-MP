@@ -28,7 +28,7 @@ This project contains two notebooks, both of which we suggest you open with Goog
 
 ## Attribution
 
-If you reference GLS-MP in your academic projects in the context of its deployment at the SDC, please cite **Argall, Small, et al. (2006)**. To cite the library in general, you could use this BibTeX entry:
+If you reference GLS-MP in your academic projects in the context of its deployment at the SDC, please cite **Argall, Small, et al. (2020)**. To cite the library in general, you could use this BibTeX entry:
 
 ```
 @misc{gls-mp,
