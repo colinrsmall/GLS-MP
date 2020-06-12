@@ -15,9 +15,9 @@ The software is fully integrated into the SDC and SITL workflow, providing sugge
 
 This project contains two notebooks, both of which we suggest you open with Google Colab:
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/colinrsmall/GLS-MP/blob/master/Run_Model.ipynb) Run Model - This notebook is used to run the GLS-MP model to generate magnetopause selections. 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/colinrsmall/GLS-MP/blob/master/Run_Model.ipynb) **Run Model** - This notebook is used to run the GLS-MP model to generate magnetopause selections. 
 
-* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/colinrsmall/GLS-MP/blob/master/Model_Development.ipynb) Model Development - This notebook walks the reader through the training of the GLS MP model, and was the notebook used to train the original version of the model currently in use at the SDC. 
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/colinrsmall/GLS-MP/blob/master/Model_Development.ipynb) **Model Development** - This notebook walks the reader through the training of the GLS MP model, and was the notebook used to train the original version of the model currently in use at the SDC. 
 
 ## See Also:
 
