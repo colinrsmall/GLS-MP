@@ -21,7 +21,7 @@ This project contains two notebooks, both of which we suggest you open with Goog
 
 ## See Also:
 
-* [mms_sitl_ground_loop](https://github.com/argallmr/mms_sitl_ground_loop) - This repository contains notebooks used to generate figures specific to 
+* [mms_sitl_ground_loop](https://github.com/argallmr/mms_sitl_ground_loop) - This repository contains notebooks used to generate figures specific to **Argall, Small, et al. (2020)**, the paper describing this model and its implementation at the SDC.
 
 * [PyMMS](https://github.com/argallmr/pymms) - This repository contains tools and scripts for accessing data at the SDC, from MMS mission data to GLS-MP generated selections.
 
