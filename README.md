@@ -39,5 +39,6 @@ title = {{GLS-MP}: automated magnetopause crossing detection,
 author = {Small, C.R., Argall, M.R., Petrik, M.},
 note = {https://github.com/colinrsmall/GLS-MP},
 year = {2020},
+doi = {10.5281/zenodo.3891992},
 }
 ```
