@@ -6,7 +6,8 @@ The GLS-MP software is designed to provide automated magnetopause crossing selec
 
 The software is fully integrated into the SDC and SITL workflow, providing suggested magnetopause crossings in near real-time.
 
-### Partners
+### Authors
+* Colin Small, [University of New Hampshire Department of Computer Science](https://ceps.unh.edu/computer-science)
 * [Matthew R. Argall](https://mypages.unh.edu/argallmr/bio), [University of New Hampshire Space Science Center](https://eos.unh.edu/space-science-center)
 * [Marek Petrik](https://ceps.unh.edu/person/marek-petrik), [University of New Hampshire Department of Computer Science](https://ceps.unh.edu/computer-science)
 
