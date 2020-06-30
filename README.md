@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3891992.svg)](https://doi.org/10.5281/zenodo.3891992)
 
-# GLS-MP
+# MMS SITL Ground Loop: Notebooks to Train and Run the GLS-MP Model
 This project is part of the [MMS mission](https://lasp.colorado.edu/mms/sdc/public/) at the University of Colorado-Boulder's [Laboratory for Atmospheric and Space Physics](http://lasp.colorado.edu/home/) and the University of New Hampshire's [Space Science Center](https://eos.unh.edu/space-science-center). 
 
 ## Project Intro/Objective
