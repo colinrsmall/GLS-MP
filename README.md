@@ -34,11 +34,13 @@ This project contains two notebooks, both of which we suggest you open with Goog
 If you reference GLS-MP in your academic projects in the context of its deployment at the SDC, please cite **Argall, Small, et al. (2020)**. To cite the library in general, you could use this BibTeX entry:
 
 ```
-@misc{gls-mp,
-title = {{GLS-MP}: automated magnetopause crossing detection,
-author = {Small, C.R., Argall, M.R., Petrik, M.},
-note = {https://github.com/colinrsmall/GLS-MP},
-year = {2020},
+@software{Small:2020,
+author = {Small, C. R. and Argall, M. R. and Petrik, M.},
 doi = {10.5281/zenodo.3891992},
+month = {jun},
+publisher = {Zenodo},
+title = {{MMS SITL Ground Loop: Notebooks to Train and Run the GLS-MP Model}},
+url = {https://doi.org/10.5281/zenodo.3891991},
+year = {2020}
 }
 ```
